@@ -1,0 +1,30 @@
+h1{
+    border-style: solid;
+
+}
+
+.Hello-wel {
+    color:salmon;
+    border-color: black;
+    
+}
+
+.p1{
+    color:blueviolet;
+}
+
+.Tech-wel {
+    color: rgb(135, 235, 225);
+    border-color: black;
+}
+
+
+.Fash-wel {
+    color: yellow;
+    border-color: black;
+}
+
+.co{
+    background-color: purple;
+    color: white;
+}
